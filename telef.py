@@ -1,0 +1,7 @@
+
+# Numeros de whatsap de las personas a las que les envies los mensajes 
+
+numeros_telefono = [
+                    "+?? ?????????",         
+                    "+?? ?????????"
+                    ]
